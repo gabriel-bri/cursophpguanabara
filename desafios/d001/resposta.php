@@ -13,7 +13,7 @@
 
 		<main>
 			<?php
-				$numero = $_GET['numero'] ?? 0;
+				$numero = $_GET["numero"] ?? 0;
 
 				echo "<p>O número escolhido foi: <strong>$numero</strong>";
 				echo "<p>O seu antecessor: <strong>" . ($numero - 1) . "</strong>";

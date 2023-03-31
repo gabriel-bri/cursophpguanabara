@@ -8,7 +8,7 @@
 </head>
 <body>
 	<header>
-		<h1>Conversor de Moedas v1.0</h1>
+		<h1>Conversor de Moedas v2.0</h1>
 	</header>
 
 		<main>
